@@ -33,6 +33,8 @@ gem 'bcrypt', '~> 3.1.7'
 
 gem 'rails-controller-testing'
 
+gem 'jquery-rails'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
